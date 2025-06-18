@@ -1,6 +1,6 @@
 # Quarto Desafio FrontEnd Mentor Social links profile
 Abordando conceito da propriedade flex, hover e links para outras páginas.
-## Tecnologias utlizadas
+## Tecnologias utilizadas
 - HTML5
 - CSS3
 ## Objetivos
